@@ -1,0 +1,101 @@
+{
+  "logins": [
+    {
+      "nome": "igor",
+      "id": "igor@email.com",
+      "senha": "1234",
+      "telefone": "(99)99999.9999",
+      "cpf": "9999999999999"
+    },
+    {
+      "nome": null,
+      "senha": null,
+      "telefone": null,
+      "cpf": null,
+      "id": "uKZtIgO"
+    },
+    {
+      "nome": "peter",
+      "id": "peter@email.com",
+      "senha": "1234",
+      "telefone": "(99)99999.9999",
+      "cpf": "99999999999999"
+    },
+    {
+      "nome": "pedro",
+      "id": "pedro2@email.com",
+      "senha": "1234",
+      "telefone": "(99)99999.9999",
+      "cpf": "99999999999999"
+    },
+    {
+      "nome": null,
+      "id": "fhKnQDK",
+      "senha": null,
+      "telefone": null,
+      "cpf": null
+    },
+    {
+      "nome": null,
+      "id": "Qd0ix6o",
+      "senha": null,
+      "telefone": null,
+      "cpf": null
+    },
+    {
+      "nome": null,
+      "id": "5bVajMy",
+      "senha": null,
+      "telefone": null,
+      "cpf": null
+    },
+    {
+      "nome": null,
+      "id": "xAsPnDe",
+      "senha": null,
+      "telefone": null,
+      "cpf": null
+    },
+    {
+      "nome": "igor",
+      "id": "igor3@email.com",
+      "senha": "12345",
+      "telefone": "(99)99999.9999",
+      "cpf": "9999999999999"
+    }
+  ],
+  "movies": [
+    {
+      "id": 1,
+      "title": "Os Vingadores",
+      "sinopse": "Loki, o irmão de Thor, ganha acesso ao poder ilimitado do cubo cósmico ao roubá-lo de dentro das instalações da S.H.I.E.L.D. Nick Fury, o diretor desta agência internacional que mantém a paz, logo reúne os únicos super-heróis que serão capazes de defender a Terra de ameaças sem precedentes. Homem de Ferro, Capitão América, Hulk, Thor, Viúva Negra e Gavião Arqueiro formam o time dos sonhos de Fury, mas eles precisam aprender a colocar os egos de lado e agir como um grupo em prol da humanidade.",
+      "price": 9.99
+    },
+    {
+      "id": 2,
+      "title": "Transformers: O Despertar das Feras",
+      "sinopse": "Uma nova ameaça capaz de destruir todo o planeta surge fazendo com que Optimus Prime e os Autobots se unam a uma poderosa facção de Transformers conhecida como Maximals para salvar a Terra.",
+      "price": 8.99
+    },
+    {
+      "id": 3,
+      "title": "Movie 3",
+      "price": 7.99
+    },
+    {
+      "id": 4,
+      "title": "Movie 3",
+      "price": 7.99
+    },
+    {
+      "id": 5,
+      "title": "Movie 3",
+      "price": 7.99
+    },
+    {
+      "id": 6,
+      "title": "Movie 3",
+      "price": 7.99
+    }
+  ]
+}
